@@ -1,0 +1,23 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="address" class="com.amit.practice.model.Address">
+        <property name="addressline1" value="flat no. 104, abc apt" />
+        <property name="addressline2" value="Wakad" />
+        <property name="city" value="Pune" />
+    </bean>
+
+    <bean id="booking" class="com.amit.practice.model.Booking">
+        <property name="id" value="1" />
+        <property name="price" value="200.00" />
+        <property name="address" ref="address" />
+    </bean>
+
+    <bean id="bookingService" class="com.amit.practice.service.BookingService">
+        <property name="booking" ref="booking" />
+        <!--<constructor-arg ref="booking"/>-->
+    </bean>
+
+</beans>
