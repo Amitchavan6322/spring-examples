@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca818bd-00b6-4581-9ced-c44688deac86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../employee-management - annotation/src/main/java/com/amit/practice/Config/ConfigApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/Config/ConfigApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/model/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/repository/HelloRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amit/practice/service/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aca818bd-00b6-4581-9ced-c44688deac86" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +30,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.App.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/_training/spring-examples/hello-world-annotation"
   }

@@ -1,0 +1,709 @@
+Index: ../employee-management/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../employee-management/.idea/encodings.xml b/../employee-management/.idea/encodings.xml
+deleted file mode 100644
+--- a/../employee-management/.idea/encodings.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Encoding">
+-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../employee-management/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../employee-management/.idea/misc.xml b/../employee-management/.idea/misc.xml
+deleted file mode 100644
+--- a/../employee-management/.idea/misc.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,14 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="MavenProjectsManager">
+-    <option name="originalFiles">
+-      <list>
+-        <option value="$PROJECT_DIR$/pom.xml" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../employee-management/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../employee-management/.idea/vcs.xml b/../employee-management/.idea/vcs.xml
+deleted file mode 100644
+--- a/../employee-management/.idea/vcs.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/workspace.xml
+===================================================================
+diff --git a/../.idea/workspace.xml b/../.idea/workspace.xml
+deleted file mode 100644
+--- a/../.idea/workspace.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,50 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="17be7547-75aa-4bdb-a121-8e84600a9163" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/employee-management/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/employee-management/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/employee-management/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/employee-management/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/org/example/App.java" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 0
+-}</component>
+-  <component name="ProjectId" id="2vt4yMZzaQxbwl31LjmjlGdUSp2" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "E:/_training/spring-examples/employee-management",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
+-  }
+-}]]></component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="17be7547-75aa-4bdb-a121-8e84600a9163" name="Changes" comment="" />
+-      <created>1744951289242</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1744951289242</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/.gitignore
+===================================================================
+diff --git a/../.idea/.gitignore b/../.idea/.gitignore
+deleted file mode 100644
+--- a/../.idea/.gitignore	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,188 +0,0 @@
+-HELP.md
+-target/
+-!.mvn/wrapper/maven-wrapper.jar
+-!**/src/main/**/target/
+-!**/src/test/**/target/
+-
+-### STS ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-
+-### IntelliJ IDEA ###
+-.idea
+-.mvn
+-*.iws
+-*.iml
+-*.ipr
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-build/
+-!**/src/main/**/build/
+-!**/src/test/**/build/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Default ###
+-/target/
+-
+-### Eclipse ###
+-
+-.metadata
+-bin/
+-tmp/
+-*.tmp
+-*.bak
+-*.swp
+-*~.nib
+-*.db
+-local.properties
+-.settings/
+-.loadpath
+-.recommenders
+-
+-# External tool builders
+-.externalToolBuilders/
+-
+-# Locally stored "Eclipse launch configurations"
+-*.launch
+-
+-# PyDev specific (Python IDE for Eclipse)
+-*.pydevproject
+-
+-# CDT-specific (C/C++ Development Tooling)
+-.cproject
+-
+-# CDT- autotools
+-.autotools
+-
+-# PDT-specific (PHP Development Tools)
+-.buildpath
+-
+-# sbteclipse plugin
+-.target
+-
+-# Tern plugin
+-.tern-project
+-
+-# TeXlipse plugin
+-.texlipse
+-
+-# Code Recommenders
+-.recommenders/
+-
+-# Annotation Processing
+-.apt_generated/
+-
+-# Scala IDE specific (Scala & Java development for Eclipse)
+-.cache-main
+-.scala_dependencies
+-.worksheet
+-
+-### Eclipse Patch ###
+-.sts4-cache/
+-
+-### Git ###
+-# Created by git for backups. To disable backups in Git:
+-# $ git config --global mergetool.keepBackup false
+-*.orig
+-
+-# Created by git when using merge tools for conflicts
+-*.BACKUP.*
+-*.BASE.*
+-*.LOCAL.*
+-*.REMOTE.*
+-*_BACKUP_*.txt
+-*_BASE_*.txt
+-*_LOCAL_*.txt
+-*_REMOTE_*.txt
+-
+-### Java ###
+-# Compiled class file
+-*.class
+-
+-# Log file
+-*.log
+-
+-# BlueJ files
+-*.ctxt
+-
+-# Mobile Tools for Java (J2ME)
+-.mtj.tmp/
+-
+-# Package Files #
+-*.jar
+-*.war
+-*.nar
+-*.ear
+-*.zip
+-*.tar.gz
+-*.rar
+-
+-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+-hs_err_pid*
+-
+-### Maven ###
+-pom.xml.tag
+-pom.xml.releaseBackup
+-pom.xml.versionsBackup
+-pom.xml.next
+-release.properties
+-dependency-reduced-pom.xml
+-buildNumber.properties
+-.mvn/timing.properties
+-.mvn/wrapper/maven-wrapper.jar
+-
+-### Windows ###
+-# Windows thumbnail cache files
+-Thumbs.db
+-ehthumbs.db
+-ehthumbs_vista.db
+-
+-# Dump file
+-*.stackdump
+-
+-# Folder config file
+-[Dd]esktop.ini
+-
+-# Recycle Bin used on file shares
+-$RECYCLE.BIN/
+-
+-# Windows Installer files
+-*.cab
+-*.msi
+-*.msix
+-*.msm
+-*.msp
+-
+-# Windows shortcuts
+-*.lnk
+-
+-### Some additional ignores (sort later)
+-*.DS_Store
+-*.sw?
+-.#*
+-*#
+-*~
+-bin
+-build
+-target
+-*.sublime-*
+-/scratch
+-.gradle
+-README.html
+-.exercism
+-/logs/*
+-/logs
+-mvnw
+-mvnw.cmd
+\ No newline at end of file
+Index: ../employee-management/.idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../employee-management/.idea/uiDesigner.xml b/../employee-management/.idea/uiDesigner.xml
+deleted file mode 100644
+--- a/../employee-management/.idea/uiDesigner.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,124 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Palette2">
+-    <group name="Swing">
+-      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+-      </item>
+-      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
+-        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+-        <initial-values>
+-          <property name="text" value="Button" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="RadioButton" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="CheckBox" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="Label" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+-          <preferred-size width="-1" height="20" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+-      </item>
+-    </group>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/modules.xml
+===================================================================
+diff --git a/../.idea/modules.xml b/../.idea/modules.xml
+deleted file mode 100644
+--- a/../.idea/modules.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-examples.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/misc.xml
+===================================================================
+diff --git a/../.idea/misc.xml b/../.idea/misc.xml
+deleted file mode 100644
+--- a/../.idea/misc.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/vcs.xml
+===================================================================
+diff --git a/../.idea/vcs.xml b/../.idea/vcs.xml
+deleted file mode 100644
+--- a/../.idea/vcs.xml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/spring-examples.iml
+===================================================================
+diff --git a/../.idea/spring-examples.iml b/../.idea/spring-examples.iml
+deleted file mode 100644
+--- a/../.idea/spring-examples.iml	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,9 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../employee-management/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../employee-management/.idea/.gitignore b/../employee-management/.idea/.gitignore
+deleted file mode 100644
+--- a/../employee-management/.idea/.gitignore	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
++++ /dev/null	(revision 1f5e89175994f00a1a37738f32191520e8ddb0cc)
+@@ -1,188 +0,0 @@
+-HELP.md
+-target/
+-!.mvn/wrapper/maven-wrapper.jar
+-!**/src/main/**/target/
+-!**/src/test/**/target/
+-
+-### STS ###
+-.apt_generated
+-.classpath
+-.factorypath
+-.project
+-.settings
+-.springBeans
+-.sts4-cache
+-
+-### IntelliJ IDEA ###
+-.idea
+-.mvn
+-*.iws
+-*.iml
+-*.ipr
+-
+-### NetBeans ###
+-/nbproject/private/
+-/nbbuild/
+-/dist/
+-/nbdist/
+-/.nb-gradle/
+-build/
+-!**/src/main/**/build/
+-!**/src/test/**/build/
+-
+-### VS Code ###
+-.vscode/
+-
+-### Default ###
+-/target/
+-
+-### Eclipse ###
+-
+-.metadata
+-bin/
+-tmp/
+-*.tmp
+-*.bak
+-*.swp
+-*~.nib
+-*.db
+-local.properties
+-.settings/
+-.loadpath
+-.recommenders
+-
+-# External tool builders
+-.externalToolBuilders/
+-
+-# Locally stored "Eclipse launch configurations"
+-*.launch
+-
+-# PyDev specific (Python IDE for Eclipse)
+-*.pydevproject
+-
+-# CDT-specific (C/C++ Development Tooling)
+-.cproject
+-
+-# CDT- autotools
+-.autotools
+-
+-# PDT-specific (PHP Development Tools)
+-.buildpath
+-
+-# sbteclipse plugin
+-.target
+-
+-# Tern plugin
+-.tern-project
+-
+-# TeXlipse plugin
+-.texlipse
+-
+-# Code Recommenders
+-.recommenders/
+-
+-# Annotation Processing
+-.apt_generated/
+-
+-# Scala IDE specific (Scala & Java development for Eclipse)
+-.cache-main
+-.scala_dependencies
+-.worksheet
+-
+-### Eclipse Patch ###
+-.sts4-cache/
+-
+-### Git ###
+-# Created by git for backups. To disable backups in Git:
+-# $ git config --global mergetool.keepBackup false
+-*.orig
+-
+-# Created by git when using merge tools for conflicts
+-*.BACKUP.*
+-*.BASE.*
+-*.LOCAL.*
+-*.REMOTE.*
+-*_BACKUP_*.txt
+-*_BASE_*.txt
+-*_LOCAL_*.txt
+-*_REMOTE_*.txt
+-
+-### Java ###
+-# Compiled class file
+-*.class
+-
+-# Log file
+-*.log
+-
+-# BlueJ files
+-*.ctxt
+-
+-# Mobile Tools for Java (J2ME)
+-.mtj.tmp/
+-
+-# Package Files #
+-*.jar
+-*.war
+-*.nar
+-*.ear
+-*.zip
+-*.tar.gz
+-*.rar
+-
+-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+-hs_err_pid*
+-
+-### Maven ###
+-pom.xml.tag
+-pom.xml.releaseBackup
+-pom.xml.versionsBackup
+-pom.xml.next
+-release.properties
+-dependency-reduced-pom.xml
+-buildNumber.properties
+-.mvn/timing.properties
+-.mvn/wrapper/maven-wrapper.jar
+-
+-### Windows ###
+-# Windows thumbnail cache files
+-Thumbs.db
+-ehthumbs.db
+-ehthumbs_vista.db
+-
+-# Dump file
+-*.stackdump
+-
+-# Folder config file
+-[Dd]esktop.ini
+-
+-# Recycle Bin used on file shares
+-$RECYCLE.BIN/
+-
+-# Windows Installer files
+-*.cab
+-*.msi
+-*.msix
+-*.msm
+-*.msp
+-
+-# Windows shortcuts
+-*.lnk
+-
+-### Some additional ignores (sort later)
+-*.DS_Store
+-*.sw?
+-.#*
+-*#
+-*~
+-bin
+-build
+-target
+-*.sublime-*
+-/scratch
+-.gradle
+-README.html
+-.exercism
+-/logs/*
+-/logs
+-mvnw
+-mvnw.cmd
+\ No newline at end of file
