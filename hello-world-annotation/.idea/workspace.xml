@@ -35,9 +35,9 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/_training/spring-examples/hello-world-annotation"
+    "last_opened_file_path": "E:/_training/spring-examples"
   }
 }]]></component>
   <component name="RecentsManager">
